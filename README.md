@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm **Saumyajais**, a data analytics enthusiast focused on turning complex data into clear, actionable insights. With hands-on experience in **SQL**, **Power BI**, and **end-to-end data analytics workflows**, I aim to bridge the gap between raw data and real-world decisions.
+Hi! I'm **Saumya jaiswal**, a data analytics enthusiast focused on turning complex data into clear, actionable insights. With hands-on experience in **SQL**, **Power BI**, and **end-to-end data analytics workflows**, I aim to bridge the gap between raw data and real-world decisions.
 
 ### 🚀 What I Do
 - 🧹 Clean and transform data using SQL
